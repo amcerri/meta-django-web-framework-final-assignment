@@ -5,7 +5,7 @@
 </p>
 <br>
 
-For this assignment, it was given the task of creating an app for the fictitious Little Lemon restaurant using the Django Web Framework.
+For this assignment, the task was to create an app for the fictitious Little Lemon restaurant using the Django Web Framework.
 
 ## How to run
 
